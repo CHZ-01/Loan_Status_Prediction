@@ -1,1 +1,0 @@
-streamlit run Loan_Prediction_App.py
